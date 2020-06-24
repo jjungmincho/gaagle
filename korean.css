@@ -20,3 +20,8 @@ button,
 span {
   color: white;
 }
+
+.search-box {
+  background-color: white;
+  border: none;
+}

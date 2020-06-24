@@ -32,3 +32,11 @@ nav {
   font-weight: 900;
   border-radius: 5px;
 }
+
+button {
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #db3236;
+}
