@@ -1,7 +1,7 @@
 .search-box {
   display: flex;
   align-items: center;
-  border: 1px solid grey;
+  border: 1px solid rgb(173, 173, 173);
   border-radius: 50px;
   padding: 10px;
 }
@@ -10,4 +10,10 @@ input {
   outline: none;
   border: none;
   font-size: 25px;
+}
+
+.search-box:active,
+.search-box:hover {
+  border: none;
+  box-shadow: 3px 2px 28px -5px rgba(56, 56, 56, 0.45);
 }
