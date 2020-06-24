@@ -1,0 +1,27 @@
+body {
+  background-image: url("image/korea-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #1d1d1d;
+  height: 95vh;
+}
+
+.title-korean {
+  font-weight: 700;
+  font-size: 800%;
+  color: white;
+  margin: 0;
+}
+
+li,
+a,
+button,
+span {
+  color: white;
+}
+
+.search-box {
+  background-color: white;
+  border: none;
+}
