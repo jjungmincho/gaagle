@@ -1,5 +1,5 @@
 body {
-  background-image: url("image/korea-bg.jpg");
+  background-image: url("images/korea-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7,7 +7,7 @@ body {
   height: 95vh;
 }
 
-.title-korean {
+.korean-title {
   font-weight: 700;
   font-size: 800%;
   color: white;
