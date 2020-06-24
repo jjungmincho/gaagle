@@ -1,2 +1,3 @@
-# gaagle
-Cloning Google main homepage
+# Gaagle
+
+Cloning Google main homepage using HTML and CSS
