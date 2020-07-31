@@ -1,8 +1,11 @@
 # Gaagle
 
-Cloning Google main homepage using HTML and CSS
+Cloning Google homepage using HTML and CSS
 
-## [Try it](https://jjessicacho.github.io/gaagle/)
+**[Try it]**(https://jjessicacho.github.io/gaagle/)
+
+## Period 
+1 day (5 hours) 
 
 ## Reference
 
