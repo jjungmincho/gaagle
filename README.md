@@ -1,16 +1,16 @@
 # Gaagle
 
-Without watching any video tutorials, I cloned the Google homepage (English and Korean) using HTML and CSS. I challenged to finish this project in one day. Here is the [link](https://jjessicacho.github.io/gaagle/).
+Without watching any video tutorials, I cloned the Google homepage (English and Korean) using HTML and CSS. I challenged to finish this project in one day. Here is the [link](https://jjungmincho.github.io/gaagle/).
 
 ---
 
 ## Table of Content
-- [Duration](https://github.com/jjessicacho/gaagle#duration)
-- [Languages](https://github.com/jjessicacho/gaagle#Languages)
-- [Technologies](https://github.com/jjessicacho/gaagle#technologies)
-- [Setup](https://github.com/jjessicacho/gaagle#setup)
-- [Features](https://github.com/jjessicacho/gaagle#features)
-- [Sources](https://github.com/jjessicacho/gaagle#sources)
+- [Duration](https://github.com/jjungmincho/gaagle#duration)
+- [Languages](https://github.com/jjungmincho/gaagle#Languages)
+- [Technologies](https://github.com/jjungmincho/gaagle#technologies)
+- [Setup](https://github.com/jjungmincho/gaagle#setup)
+- [Features](https://github.com/jjungmincho/gaagle#features)
+- [Sources](https://github.com/jjungmincho/gaagle#sources)
 
 ---
 
